@@ -1,0 +1,1 @@
+{"happy": {"definition": "very content", "mistakes": 1}, "sad": {"definition": "unhappy", "mistakes": 1}, "mad": {"definition": "irate", "mistakes": 2}, "pensive": {"definition": "thoughtful", "mistakes": 1}}

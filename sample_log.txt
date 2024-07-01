@@ -1,0 +1,36 @@
+File name:
+> my_flashcards.txt
+4 cards have been loaded.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+> add
+The card
+> exhausted
+The definition of the card
+> extremely tired
+The pair ("exhausted":"extremely tired") has been added.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+> ask
+How many times to ask?
+> 5
+Print the definition of "happy":
+> very content
+Correct!
+Print the definition of "sad":
+> unhappy
+Correct!
+Print the definition of "mad":
+> angry
+Wrong...The right answer is "irate".
+Print the definition of "pensive":
+> thoughtful
+Correct!
+Print the definition of "exhausted":
+> very tired
+Wrong...The right answer is "extremely tired".
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+> hardest card
+The hardest card is "mad". You have 3 errors answering it.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+> log
+File name:
+> sample_log.txt
